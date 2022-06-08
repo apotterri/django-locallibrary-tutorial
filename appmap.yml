@@ -1,0 +1,4 @@
+name: django-locallibrary-tutorial
+packages:
+- path: locallibrary
+- path: catalog
